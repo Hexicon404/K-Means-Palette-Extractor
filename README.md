@@ -1,6 +1,6 @@
 # K-Means Palette Extractor 
 
-### 🎨 Computer Vision Color Intelligence Engine
+### 🎨 Extracts dominant color palettes from images using K-Means clustering (OpenCV + scikit-learn)
 
 A Python-based computer vision tool that quantifies aesthetic data. It uses **K-Means Clustering (Unsupervised Learning)** to analyze pixel distributions in image datasets and extract mathematically dominant color palettes in real-time.
 
